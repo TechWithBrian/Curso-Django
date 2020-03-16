@@ -9,6 +9,8 @@
 
 - Creaccion de Projecto sin & usando un entorno virtual "virtualenv".
 
+- Dev an E-Commerce App. / Dev. Blog App.
+
 - Django & Docker (Microservicios, Virtualizacion, Contenedores e Imagenes de nuestra aplicacion).
 
 - Desplegar nuestra aplicacion en un servidor real en cualquier tipo de infraestructura hosting "CPanel" o en la nube "VPS Cloud Centos/ubuntu".

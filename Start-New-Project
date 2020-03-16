@@ -15,7 +15,7 @@ y dentro de ella ejecutamos el comando:
 
 luego ejecutamos el comando: 
 
-python manage.py migrate
+- python manage.py migrate
 
 hasta aqui ya tenemos nuestro projecto en funcionamiento. Despues de ello y para comprobar que funcione ejecutamos el servidor...
 

@@ -21,6 +21,13 @@ Nota: si al ejecutar algunos de estos comandos de verificacion aparece algun err
 para pip, para python, para Node, para MongoDB, docker... etc etc... lo que se debe hacer es tomar la ruta en disco local c, 
 hasta la ruta de destino donde se encuentra el archivo, copiar esa ruta, y añadirla la Path y configurar las variables de entorno...
 
+Para eso hacemos lo siguiente:
+
+este equipo / propiedades / configuracion avanzada del sistema / variables de entorno / (escojer entre añadir la direccion al Path para
+un usuario en especifico o global para toda la maquina o el sistema) ejmp: "Variables del sistema" or "Variables de un usuario para brian" 
+/ seleccionamos nueva / (nombre de la variable) ejm. "python" / pegamos la ruta de nuestro folder/archivo espcifico. Para termianar aceptar, 
+aceptar y aceptar hasta completar el cierre de todas las ventanas.
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -29,10 +36,11 @@ hasta la ruta de destino donde se encuentra el archivo, copiar esa ruta, y añad
 
 Actualizamos:
 
-- python: reinstall from official website https://www.python.org/ (ultima version estable)
+- python: (Desinstalar primero la version actual) Descargar & reinstall from official website https://www.python.org/ 
+(Nueva ultima version estable).
 
-- pip: python -m pip install  --upgrade pip
+- pip: python -m pip install --upgrade pip
 
-- virtualenv. 
+- virtualenv. python -m pip install --upgrade virtualenv
 
-- Django. 
+- Django. python -m pip install --upgrade django

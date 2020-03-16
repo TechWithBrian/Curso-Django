@@ -25,6 +25,8 @@ hasta aqui ya tenemos nuestro projecto en funcionamiento. Despues de ello y para
 luego vamos a la direccion IP en el localhost o puerto que nos dice en el navegador y estariamos visualizando la pagina de bienvenida que
 nos de Django por defecto.
 
+Nota: para parar el servidor ejecutamos en cmd el comando "ctrl + c"
+
 
 Source:
 Curso Django. Creación primer proyecto. Vídeo 2

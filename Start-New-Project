@@ -15,6 +15,7 @@ y dentro de ella ejecutamos el comando:
 
 luego ejecutamos el comando: 
 
+- cd project1 (entramos a la carpeta que acabamos de crear y ejecutamos el archivo manage.py)
 - python manage.py migrate
 
 hasta aqui ya tenemos nuestro projecto en funcionamiento. Despues de ello y para comprobar que funcione ejecutamos el servidor...

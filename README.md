@@ -1,5 +1,5 @@
 # Curso-Django (for beginners From scratch).
-### Definitive guide step by step from scratch to hero...
+### Definitive guide step by step from scratch to hero on Win-10..
 
 ##### Django:
 

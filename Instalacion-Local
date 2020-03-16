@@ -6,11 +6,11 @@ Instalamos:
 
 - Python: from official website https://www.python.org/ (ultima version estable)
 
-- Pip:  (viene isntalado por defecto cuando instalamos python)
+- Pip: (viene isntalado por defecto cuando instalamos python)
 
-- Virtualenv. pip install virtualenvwrapper-win
+- Virtualenv: pip install virtualenvwrapper-win
 
-- Django. pip install Django
+- Django: pip install Django
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------

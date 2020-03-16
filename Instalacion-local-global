@@ -7,7 +7,6 @@ Instalamos:
 - python: from official website https://www.python.org/ (ultima version estable)
 
 - pip:  (viene isntalado por defecto cuando instalamos python)
-Actualizar pip: python -m pip install  --upgrade pip
 
 - virtualenv. pip install virtualenvwrapper-win
 
@@ -23,3 +22,30 @@ para pip, para python, para Node, para MongoDB, docker... etc etc... lo que se d
 hasta la ruta de destino donde se encuentra el archivo, copiar esa ruta, y añadirla la Path y configurar las variables de entorno...
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Nota: esto se instala desde la powershell en windos o cmd como administrador, en el mismo orden: python, pip, virtualenv, Django.
+
+Nota: si al ejecutar algunos de estos comandos de verificacion aparece algun errorcomo "Django no es reconocido como un comando interno..." 
+para pip, para python, para Node, para MongoDB, docker... etc etc... lo que se debe hacer es tomar la ruta en disco local c, 
+hasta la ruta de destino donde se encuentra el archivo, copiar esa ruta, y añadirla la Path y configurar las variables de entorno...
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Actualizacion de versiones:
+
+
+Actualizamos:
+
+- python: reinstall from official website https://www.python.org/ (ultima version estable)
+
+- pip: python -m pip install  --upgrade pip
+
+- virtualenv. 
+
+- Django. 

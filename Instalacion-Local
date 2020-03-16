@@ -4,11 +4,11 @@ Curso Django for beginners From scratch:
 
 Instalamos:
 
-- python: from official website https://www.python.org/ (ultima version estable)
+- Python: from official website https://www.python.org/ (ultima version estable)
 
-- pip:  (viene isntalado por defecto cuando instalamos python)
+- Pip:  (viene isntalado por defecto cuando instalamos python)
 
-- virtualenv. pip install virtualenvwrapper-win
+- Virtualenv. pip install virtualenvwrapper-win
 
 - Django. pip install Django
 

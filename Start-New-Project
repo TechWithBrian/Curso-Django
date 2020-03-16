@@ -30,6 +30,10 @@ nos de Django por defecto.
 
 Nota: para parar el servidor ejecutamos en cmd el comando "ctrl + c".
 
+en cmd para retrocer en las carpetas lo hacemos "cd .." / ir hacia adelante "cd desktop" & "cd desktop/myfolder"
+
+para salir del projecto y la consola: "cd .." y exit()
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 

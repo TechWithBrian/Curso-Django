@@ -42,3 +42,28 @@ Actualizamos:
 - Virtualenv. python -m pip install --upgrade virtualenv
 
 - Django. python -m pip install --upgrade django
+
+
+
+
+#### Comando para verificar las version actual que tenemos instalada:
+
+Abrimos cmd y tecleamos:
+
+- Python: python --version
+
+- Pip: pip --version / pip freeze
+
+- Virtualenv: virtualenv --version
+
+- Django: python  -m django  --version
+
+
+
+
+
+
+
+
+
+

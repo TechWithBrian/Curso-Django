@@ -1,6 +1,6 @@
 Curso Django for beginners From scratch:
 
-Instalar python, pip, virtualenv, django en local o de manera global en toda la computadora...
+#### Instalar python, pip, virtualenv, django en local o de manera global en toda la computadora...
 
 Instalamos:
 
@@ -24,20 +24,7 @@ hasta la ruta de destino donde se encuentra el archivo, copiar esa ruta, y añad
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Nota: esto se instala desde la powershell en windos o cmd como administrador, en el mismo orden: python, pip, virtualenv, Django.
-
-Nota: si al ejecutar algunos de estos comandos de verificacion aparece algun errorcomo "Django no es reconocido como un comando interno..." 
-para pip, para python, para Node, para MongoDB, docker... etc etc... lo que se debe hacer es tomar la ruta en disco local c, 
-hasta la ruta de destino donde se encuentra el archivo, copiar esa ruta, y añadirla la Path y configurar las variables de entorno...
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-
-Actualizacion de versiones:
+#### Actualizacion de versiones:
 
 
 Actualizamos:

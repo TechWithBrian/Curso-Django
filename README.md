@@ -16,6 +16,27 @@
 - Desplegar nuestra aplicacion en un servidor real en cualquier tipo de infraestructura hosting "CPanel" o en la nube "VPS Cloud Centos/ubuntu".
 
 
+##### Fianlly to them we'll getting an  Django App:
+
+1). Back-End:
+
+- Private Cloud: OpenStack / 
+- Public Cloud: AWS.
+- Kubernetes.
+- Docker.
+- Mongo DB.
+- Python.
+- Django.
+
+
+2). Front-End:
+
+- Nodejs.
+- VueJs.
+- Webpack.
+- Sass.
+
+
 
 
 

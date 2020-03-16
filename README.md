@@ -1,6 +1,9 @@
 # Curso-Django (for beginners From scratch).
 ### Definitive guide step by step from scratch to hero on Win-10...
 
+![Django](https://user-images.githubusercontent.com/60494113/76764162-ab00d280-6794-11ea-93c7-27d960e590c8.jpg)
+
+
 ##### Django:
 
 - Instalacion: Local vs Virtual (Projecto Espefico).

@@ -36,11 +36,11 @@ aceptar y aceptar hasta completar el cierre de todas las ventanas.
 
 Actualizamos:
 
-- python: (Desinstalar primero la version actual) Descargar & reinstall from official website https://www.python.org/ 
+- Python: (Desinstalar primero la version actual) Descargar & reinstall from official website https://www.python.org/ 
 (Nueva ultima version estable).
 
-- pip: python -m pip install --upgrade pip
+- Pip: python -m pip install --upgrade pip
 
-- virtualenv. python -m pip install --upgrade virtualenv
+- Virtualenv. python -m pip install --upgrade virtualenv
 
 - Django. python -m pip install --upgrade django

@@ -72,14 +72,14 @@ ahora nuestro projecto esta en funcionamiento,
 solo debemos ejecutar el servidor y crear un super usuario para acceder a la drasboard 
 del admin y poder empezar a crear nuestras Apps en Django...
 
-para ejecutar el servidor que viene por defecto en python para el desarrollo del projecto (Apache & slqlite), ejjecutamos...
+para ejecutar el servidor que viene por defecto en python para el desarrollo del projecto (Apache & slqlite), ejecutamos...
 (y luego vamos a la direccion de local host que nos da para visualizar que el projecto este corriendo...)
 
 - python manage.py runserver
 
 ahora procedemos a crear un super usuario para acceder a la drashboard de super admin de django
 
-- python manage.py create superuser
+- python manage.py createsuperuser
 
 ponemos el usuario y password.
 

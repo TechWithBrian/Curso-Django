@@ -32,11 +32,6 @@ una vez activado el entorno y dentro de el, procedemos a instalar django como ta
 una vez instalado Django lo comprobamos con el comando: "pip freeze"
 
 
-
-
-
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Nota: @important!
@@ -56,6 +51,7 @@ para salir del projecto y la consola: "cd .." y exit()
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
 
 2). Segunda Parte:  "Creacion de las carpetas del projecto, cracion del entorno virtual y instalacion de Django y demas paquetes,
 librerias, etc, dentro de neustro projecto como tal....
@@ -92,7 +88,7 @@ ahora ya podemos proceder a crear nuestra primera pagina (creando una priemra vi
 que va a interactuar el usuario, y las views es una URL con una pagina, es lo que le vamos a responder a un usuario que nos mande una peticion al servidor.
 recibe las peticiones con la clase "Request" y responde a las peticiones con la clase "HttpResponse").
 
--
+- python manage.py createapp "nombre de la app"
 
 luego podemos realizar la primera migracion y crear un nuevo super usuario para el login en el admin de django, despues corremos el servidor
 

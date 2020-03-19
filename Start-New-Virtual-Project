@@ -83,7 +83,9 @@ para ejecutar el servidor que viene por defecto en python para el desarrollo del
 
 ahora procedemos a crear un super usuario para acceder a la drashboard de super admin de django
 
-- 
+- python manage.py create superuser
+
+ponemos el usuario y password.
 
 ahora ya podemos proceder a crear nuestra primera pagina (creando una priemra vista y configurar la Url) y nuestra primera App en Django
 (para ello conectamos con bases de datos mysql y mongo, atraves del model. Elaboramos nuestros templates: formularios e interfacez con las

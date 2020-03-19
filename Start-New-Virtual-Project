@@ -3,6 +3,10 @@ Crear un nuevo projecto con Django...
 
 #### Crear un nuevo projecto con Django en una instalacion Virtual (Dentro de un entorno virtual):
 
+1). Primera Parte:  "Creacion de las carpetas del projecto, cracion del entorno virtual y instalacion de Django y demas paquetes,
+librerias, etc, dentro de neustro projecto como tal....
+
+
 Creamos una carpeta con el nombre del projecto...
 
 - tecla win + R "cmd"
@@ -21,6 +25,14 @@ luego ingresamos a la carpeta "scripts" y ejecutamos el archio "activate"
 
 - cd scripts/activate 
 
+una vez activado el entorno y dentro de el, procedemos a instalar django como tal dentro de nueustro projecto...
+
+- pip install django 
+
+una vez instalado Django lo comprobamos con el comando: "pip freeze"
+
+
+
 
 
 
@@ -33,6 +45,7 @@ Nota: @important!
 
 - en cmd para retrocer en las carpetas lo hacemos "cd .." / ir hacia adelante "cd desktop" & "cd desktop/myfolder"
 para ver los directorios "dir" & "ls"
+para limpiar consola: "cls"
 para salir del projecto y la consola: "cd .." y exit()
 
 - Para comprobar que paquetes tenemos instalados  en nuestros proyectos globales y/o virtuales, usamos el comando "pip freeze" y "pip list"
@@ -44,13 +57,39 @@ para salir del projecto y la consola: "cd .." y exit()
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+2). Segunda Parte:  "Creacion de las carpetas del projecto, cracion del entorno virtual y instalacion de Django y demas paquetes,
+librerias, etc, dentro de neustro projecto como tal....
+
+una vez instalado dentro de nuestro projecto nuestro entorno virtual y dentro de el las librerias, dependencias y paquetes que vayamos a
+empezar a usar, nos regresamos hasta la carpeta raiz de todo neustro projecto y creamos una carpeta con el nombre de nuestro projecto, 
+luego inicamos dentro de ella un nuevo projecto de Django...
+
+dentro de la carpeta ejecutamos
+
+- django-admin start project "nombre del projecto
+
+luego ingresamos a ella y ejecutamos el archivo "manage.py"
+
+- cd biblioteca/python manage.py
+
+luego podemos realizar la primera migracion y crear un nuevo super usuario para el login en el admin de django, despues corremos el servidor
+
+
+luego podriamos empezar a crear nuestra primera app dentro la aplicacion y la registramos dentro del archivo "settings.py"
+
+
+
+
+
+
+
+
+
 
 Source:
-Curso Django. Creación primer proyecto. Vídeo 2
-https://www.youtube.com/watch?v=2DbWqyBR4Oo
-
-How to Install Django on Windows 10, 8, 7
-https://www.youtube.com/watch?v=MEcWRk9w0t0
 
 1.- Curso Django 2 | Introducción, Instalación y Entornos Virtuales
-https://www.youtube.com/watch?v=0-6etcOHQ_0&list=PLMbRqrU_kvbTGg_oUKXyWi63Mo9Yoot9K
+https://www.youtube.com/watch?v=0-6etcOHQ_0&list=PLMbRqrU_kvbTGg_oUKXyWi63Mo9Yoot9K&index=1
+
+2.- Curso Django 2 | Crear proyecto, Explicacion de estructura base de proyecto
+https://www.youtube.com/watch?v=Vw_Fpxt_5Bg&list=PLMbRqrU_kvbTGg_oUKXyWi63Mo9Yoot9K&index=2

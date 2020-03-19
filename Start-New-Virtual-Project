@@ -1,1 +1,23 @@
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Nota: para parar el servidor ejecutamos en cmd el comando "ctrl + c".
+
+en cmd para retrocer en las carpetas lo hacemos "cd .." / ir hacia adelante "cd desktop" & "cd desktop/myfolder"
+para ver los directorios "dir" & "ls"
+para salir del projecto y la consola: "cd .." y exit()
+
+- Para comprobar que paquetes tenemos instalados  en nuestros proyectos globales y/o virtuales, usamos el comando "pip freeze" y "pip list"
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Source:
+Curso Django. Creación primer proyecto. Vídeo 2
+https://www.youtube.com/watch?v=2DbWqyBR4Oo
+
+How to Install Django on Windows 10, 8, 7
+https://www.youtube.com/watch?v=MEcWRk9w0t0
+
+1.- Curso Django 2 | Introducción, Instalación y Entornos Virtuales
+https://www.youtube.com/watch?v=0-6etcOHQ_0&list=PLMbRqrU_kvbTGg_oUKXyWi63Mo9Yoot9K

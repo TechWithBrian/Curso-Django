@@ -90,13 +90,11 @@ recibe las peticiones con la clase "Request" y responde a las peticiones con la 
 
 - python manage.py createapp "nombre de la app"
 
-luego podemos realizar la primera migracion y crear un nuevo super usuario para el login en el admin de django, despues corremos el servidor
+luego vamos settings, views, y urls para declarar y regisrar nuestra app...
 
+luego realizamos la primer migracion ejecutando...
 
-luego podriamos empezar a crear nuestra primera app dentro la aplicacion y la registramos dentro del archivo "settings.py"
-
-
-
+- python manage.py make migrations
 
 
 

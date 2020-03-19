@@ -1,11 +1,25 @@
 Crear un nuevo projecto con Django...
 
 
-#### Crear un nuevo projecto con Django en una instalacion local:
+#### Crear un nuevo projecto con Django en una instalacion Virtual (Dentro de un entorno virtual):
 
--
+Creamos una carpeta con el nombre del projecto...
 
+- tecla win + R "cmd"
 
+- cd desktop/project
+
+ingresamos en ella y creamos una carpeta llamada "entorno"
+
+- cd desktop/project/entorno
+
+aqui creamos nuestro entorno virtual
+
+- virtualenv "nombre de mi entorno"
+
+luego ingresamos a la carpeta "scripts" y ejecutamos el archio "activate"
+
+- cd scripts/activate 
 
 
 
@@ -13,7 +27,7 @@ Crear un nuevo projecto con Django...
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Nota: 
+Nota: @important!
 
 - para parar el servidor ejecutamos en cmd el comando "ctrl + c".
 
@@ -22,6 +36,11 @@ para ver los directorios "dir" & "ls"
 para salir del projecto y la consola: "cd .." y exit()
 
 - Para comprobar que paquetes tenemos instalados  en nuestros proyectos globales y/o virtuales, usamos el comando "pip freeze" y "pip list"
+
+- Para activar y desactivar un entorno virtual: "acitvate" / "deactivate"
+
+- Si quieres especificar la version de django que deseas instalar, ejmp: "pip install django==3.0.9"
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 

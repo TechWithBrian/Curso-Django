@@ -12,6 +12,8 @@
 
 - Creaccion de Projecto sin & usando un entorno virtual "virtualenv".
 
+- separar el codigo fuente (de las librerias, etc...), del codigo del projecto como tal...
+
 - Dev an E-Commerce App. / Dev. Blog App.
 
 - Django & Docker (Microservicios, Virtualizacion, Contenedores e Imagenes de nuestra aplicacion).

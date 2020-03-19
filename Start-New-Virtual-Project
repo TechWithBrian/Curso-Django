@@ -68,9 +68,29 @@ dentro de la carpeta ejecutamos
 
 - django-admin start project "nombre del projecto
 
-luego ingresamos a ella y ejecutamos el archivo "manage.py"
+luego ingresamos a el y ejecutamos el archivo "manage.py" para activar el projecto que acabamos de crear...
 
-- cd biblioteca/python manage.py
+- cd biblioteca/python manage.py migrate
+
+ahora nuestro projecto esta en funcionamiento,
+solo debemos ejecutar el servidor y crear un super usuario para acceder a la drasboard 
+del admin y poder empezar a crear nuestras Apps en Django...
+
+para ejecutar el servidor que viene por defecto en python para el desarrollo del projecto (Apache & slqlite), ejjecutamos...
+(y luego vamos a la direccion de local host que nos da para visualizar que el projecto este corriendo...)
+
+- python manage.py runserver
+
+ahora procedemos a crear un super usuario para acceder a la drashboard de super admin de django
+
+- 
+
+ahora ya podemos proceder a crear nuestra primera pagina (creando una priemra vista y configurar la Url) y nuestra primera App en Django
+(para ello conectamos con bases de datos mysql y mongo, atraves del model. Elaboramos nuestros templates: formularios e interfacez con las
+que va a interactuar el usuario, y las views es una URL con una pagina, es lo que le vamos a responder a un usuario que nos mande una peticion al servidor.
+recibe las peticiones con la clase "Request" y responde a las peticiones con la clase "HttpResponse").
+
+-
 
 luego podemos realizar la primera migracion y crear un nuevo super usuario para el login en el admin de django, despues corremos el servidor
 

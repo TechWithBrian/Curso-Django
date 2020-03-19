@@ -1,9 +1,23 @@
+Crear un nuevo projecto con Django...
+
+
+#### Crear un nuevo projecto con Django en una instalacion local:
+
+-
+
+
+
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Nota: para parar el servidor ejecutamos en cmd el comando "ctrl + c".
+Nota: 
 
-en cmd para retrocer en las carpetas lo hacemos "cd .." / ir hacia adelante "cd desktop" & "cd desktop/myfolder"
+- para parar el servidor ejecutamos en cmd el comando "ctrl + c".
+
+- en cmd para retrocer en las carpetas lo hacemos "cd .." / ir hacia adelante "cd desktop" & "cd desktop/myfolder"
 para ver los directorios "dir" & "ls"
 para salir del projecto y la consola: "cd .." y exit()
 

@@ -1,0 +1,70 @@
+Python 3 (2020) Linux | Descargar e Instalar | Ultima versión
+https://www.youtube.com/watch?v=db_9usroipQ
+
+Entorno virtual en Python. Como y para que. Ubuntu, Linux Mint, etc.
+https://www.atareao.es/como/entorno-virtual-en-python-como-y-para-que/
+
+
+GitHub: @brianparkerin/Curso-Django :
+https://github.com/brianparkerin/Curso-Django/blob/master/Start-New-Virtual-Project
+
+
+sudo apt-get install python3.8-venv
+
+mkdir python3
+
+python3 -m venv venv
+
+pip install --upgrade pip
+
+____________________________________________
+
+CREAR PROYECTO EN DJANGO UBUNTU 19 Y 20 EN 2020.
+
+- Revisar la version de python:
+python3 --version
+
+- Cambiar la version de python en ubuntu de python 2 a python3:
+mkdir python3
+
+- crear entorno virtual:
+python3 -m venv venv
+
+- activar nuestro entorno virtual:
+fujitsu@brian:~/Escritorio/Django-BBuy-Web$ source venv/bin/activate
+
+
+- instalar python dentro de nuestro entorno en linux:
+
+(venv) fujitsu@brian:~/Escritorio/Django-BBuy-Web/venv/bin$ sudo apt-get install python3-pip
+
+- ver la versiond e python que tenemos instalada:
+
+(venv) fujitsu@brian:~/Escritorio/Django-BBuy-Web/venv/bin$ python --version
+Python 3.8.3
+
+- instalar modulos o librerias y paquetes con pip:
+
+(venv) fujitsu@brian:~/Escritorio/Django-BBuy-Web/venv/bin$ pip install django
+Collecting django
+
+Nota: Si quieres especificar la version de django que deseas instalar, ejmp: "pip install django==3.0.9"
+
+
+- Actualizar pip:
+(venv) fujitsu@brian:~/Escritorio/Django-BBuy-Web/venv/bin$ pip install --upgrade pip
+
+
+- Ver los modulos y librerias instaladas:
+pip freeze
+
+
+- Crear el archivo requirements.txt:
+
+(venv) fujitsu@brian:~/Escritorio/Django-BBuy-Web$ pip freeze --local > requirements.txt
+
+
+- instalar modulos o librerias y paquetes con pip:
+
+(venv) fujitsu@brian:~/Escritorio/Django-BBuy-Web$ pip install gunicorn
+Collecting gunicorn
